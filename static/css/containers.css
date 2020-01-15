@@ -1,0 +1,9 @@
+.jumbobox {
+  min-height: 300px;
+  padding: 5px;
+  margin: 5px;
+  font-family: 'Lobster', cursive;
+  font-weight: 800;
+  color: #6ed323;
+  background: #2c4817;
+}
